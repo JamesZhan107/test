@@ -2,8 +2,8 @@
 <project version="4">
   <component name="SmartFoxWorkToolsProjectState">
     <option name="branch" value="main" />
-    <option name="gitUrl" value="git@github.com:JamesZhan107/test.git" />
+    <option name="gitUrl" value="https://github.com/JamesZhan107/test.git" />
     <option name="localBranch" value="main" />
-    <option name="revision" value="4b8bfea6c66d1a4ed52758a43108c1b3c85772da" />
+    <option name="revision" value="61ffe83357d8f37616d8c027d4c7cfce26a47cd3" />
   </component>
 </project>

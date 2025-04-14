@@ -2,4 +2,4 @@ yy
 pp
 pp
 
-ppp
+p
